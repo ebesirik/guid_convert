@@ -1,6 +1,6 @@
 [package]
 name = "guid_convert"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 authors = ["Emre Beşirik"]
 description = "Simple console command to convert guid to long or long to Guid."
