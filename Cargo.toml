@@ -1,11 +1,13 @@
 [package]
 name = "guid_convert"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2024"
 authors = ["Emre Beşirik"]
 description = "Simple console command to convert guid to long or long to Guid."
 license = "MIT"
+repository = "https://github.com/ebesirik/guid_convert"
+homepage = "https://github.com/ebesirik/guid_convert"
 
 [dependencies]
-clap = { version = "4.5.49", features = ["derive"] }
+clap = { version = "4.5.51", features = ["derive"] }
 uuid = "1.18.1"
